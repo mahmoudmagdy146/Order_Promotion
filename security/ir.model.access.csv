@@ -1,0 +1,4 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_sale_promotion,sale.promotion,model_sale_promotion,,1,1,1,1
+access_sale_promotion_rule,sale.promotion.rule,model_sale_promotion_rule,,1,1,1,1
+access_sale_promotion_rule_line,sale.promotion.rule.line,model_sale_promotion_rule_line,,1,1,1,1
